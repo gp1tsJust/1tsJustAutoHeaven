@@ -3,6 +3,7 @@
 
 -- if you ever use parts of my script for correctness please give me the credits of the pieces you used
 --And please don't change the names of the script to pretend it's yours
+--Take this Script Opens Surce, Have fun :D
 
 
 if not game:IsLoaded() then game.Loaded:wait() end
